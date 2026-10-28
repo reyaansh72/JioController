@@ -1,0 +1,137 @@
+{
+  "controller_name": "Xbox One S Controller",
+  "controls": {
+    "A Button": {
+      "type": "button",
+      "index": 0
+    },
+    "B Button": {
+      "type": "button",
+      "index": 1
+    },
+    "X Button": {
+      "type": "button",
+      "index": 2
+    },
+    "Y Button": {
+      "type": "button",
+      "index": 3
+    },
+    "Left Bumper (LB)": {
+      "type": "button",
+      "index": 4
+    },
+    "Right Bumper (RB)": {
+      "type": "button",
+      "index": 5
+    },
+    "Left Trigger (LT)": {
+      "type": "axis",
+      "index": 4,
+      "value_when_pressed": -0.2,
+      "rest_value": -1.0
+    },
+    "Right Trigger (RT)": {
+      "type": "axis",
+      "index": 5,
+      "value_when_pressed": 0.294,
+      "rest_value": -1.0
+    },
+    "Start": {
+      "type": "button",
+      "index": 7
+    },
+    "Back / Select": {
+      "type": "button",
+      "index": 6
+    },
+    "Left Stick Click (L3)": {
+      "type": "button",
+      "index": 8
+    },
+    "Right Stick Click (R3)": {
+      "type": "button",
+      "index": 9
+    },
+    "D-Pad Up": {
+      "type": "hat",
+      "index": 0,
+      "value": [
+        0,
+        1
+      ]
+    },
+    "D-Pad Down": {
+      "type": "hat",
+      "index": 0,
+      "value": [
+        0,
+        -1
+      ]
+    },
+    "D-Pad Left": {
+      "type": "hat",
+      "index": 0,
+      "value": [
+        -1,
+        0
+      ]
+    },
+    "D-Pad Right": {
+      "type": "hat",
+      "index": 0,
+      "value": [
+        1,
+        0
+      ]
+    },
+    "Left Stick Left": {
+      "type": "axis",
+      "index": 0,
+      "value_when_pressed": -1.0,
+      "rest_value": 0.0
+    },
+    "Left Stick Right": {
+      "type": "axis",
+      "index": 0,
+      "value_when_pressed": 0.57,
+      "rest_value": 0.0
+    },
+    "Left Stick Up": {
+      "type": "axis",
+      "index": 1,
+      "value_when_pressed": -0.648,
+      "rest_value": 0.0
+    },
+    "Left Stick Down": {
+      "type": "axis",
+      "index": 1,
+      "value_when_pressed": 0.719,
+      "rest_value": 0.0
+    },
+    "Right Stick Left": {
+      "type": "axis",
+      "index": 2,
+      "value_when_pressed": -0.789,
+      "rest_value": 0.0
+    },
+    "Right Stick Right": {
+      "type": "axis",
+      "index": 2,
+      "value_when_pressed": 0.617,
+      "rest_value": 0.0
+    },
+    "Right Stick Up": {
+      "type": "axis",
+      "index": 3,
+      "value_when_pressed": -0.688,
+      "rest_value": 0.0
+    },
+    "Right Stick Down": {
+      "type": "axis",
+      "index": 3,
+      "value_when_pressed": 0.836,
+      "rest_value": 0.0
+    }
+  }
+}
